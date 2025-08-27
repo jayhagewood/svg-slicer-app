@@ -1,0 +1,7 @@
+streamlit
+Pillow
+numpy
+svgwrite
+cairosvg
+scikit-image
+scikit-learn
